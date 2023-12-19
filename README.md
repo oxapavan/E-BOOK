@@ -14,3 +14,6 @@ The_Art_of_Human_Hacking    ( https://www.acfe.com/training-events-and-products/
       
 4.
 100-Essential commands for linux   ( Handbook )   made one
+
+5.
+ Wordpress-Pentesting  ( Ways to execute wordpress content websites )
