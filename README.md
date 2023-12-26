@@ -17,3 +17,11 @@ The_Art_of_Human_Hacking    ( https://www.acfe.com/training-events-and-products/
 
 5.
  Wordpress-Pentesting  ( Ways to execute wordpress content websites )
+
+6.
+Red Team Scenarios ( Hadess )
+Hadess.io
+
+
+
+
