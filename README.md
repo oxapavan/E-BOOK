@@ -11,17 +11,3 @@ Testing Web Security   ( https://www.wiley.com/en-in  )
 3.
 The_Art_of_Human_Hacking    ( https://www.acfe.com/training-events-and-products/all-products/product-detail-page?s=Social-Engineering-The-Art-of-Human-Hacking )     
        ( https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/B08XZQ81YY )
-      
-4.
-100-Essential commands for linux   ( Handbook )   made one
-
-5.
- Wordpress-Pentesting  ( Ways to execute wordpress content websites )
-
-6.
-Red Team Scenarios ( Hadess )
-https://Hadess.io
-
-
-
-
